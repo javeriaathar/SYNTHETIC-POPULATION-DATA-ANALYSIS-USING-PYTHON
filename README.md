@@ -67,7 +67,7 @@ The dataset is synthetically generated with the following columns:
 
 ### 1. Clone Repository
 ```bash
-[git clone https://github.com/your-username/population-eda.git](https://github.com/javeriaathar/SYNTHETIC-POPULATION-DATA-ANALYSIS-USING-PYTHON.git)
+https://github.com/javeriaathar/SYNTHETIC-POPULATION-DATA-ANALYSIS-USING-PYTHON.git
 ```
 
 ### 2. Install Required Libraries
