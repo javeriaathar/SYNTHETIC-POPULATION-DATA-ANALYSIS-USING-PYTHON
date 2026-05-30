@@ -1,6 +1,6 @@
 # 📊 Exploratory Data Analysis (EDA) on Synthetic Population Dataset
 
-[![Open In Colab](https://google.com)](https://colab.research.google.com/github/javeriaathar/SYNTHETIC-POPULATION-DATA-ANALYSIS-USING-PYTHON/blob/main/Population%20Project.ipynb#scrollTo=8d86ae3a-f5a8-4332-a6d2-ef65938f0b13)
+[![Open In Colab](https://google.com)](https://google.com/javeriaathar/SYNTHETIC-POPULATION-DATA-ANALYSIS-USING-PYTHON/main/Population_Project.ipynb)
 
 ## 📌 Project Overview
 This project demonstrates **Exploratory Data Analysis (EDA)** using Python. A synthetic population dataset is generated containing demographic information such as **Age, Gender, and City**. The dataset is then analyzed to extract meaningful insights through data visualization and statistical methods.
